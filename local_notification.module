@@ -1,0 +1,8 @@
+<?php
+/**
+ * Implements hook_init().
+ */
+function local_notification_init() {
+    $path = drupal_get_path('module', 'local_notification');
+    drupal_add_js($path, '/local_notification.js');
+}

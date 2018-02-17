@@ -1,0 +1,4 @@
+name = Local Notification
+description = Allows to send browser notification to users that currently view the page.
+package = Notifications
+core = 7.x
