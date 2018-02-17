@@ -34,3 +34,8 @@ xmlrpc.php
 /profiles
 /scripts
 /themes
+
+# Ignore Komodo editor
+*.komodoproject
+
+*.DS_Store
